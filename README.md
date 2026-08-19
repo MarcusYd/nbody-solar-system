@@ -5,11 +5,6 @@ eight planets, and a configurable asteroid belt. The project uses Newtonian
 gravity, a kick-drift-kick integration step, NumPy, optional Numba-compiled
 physics, and Pygame rendering.
 
-This is a numerical physics simulation, **not a machine-learning model**. I
-built it to learn how physical equations can be translated into code, how
-array-based and compiled numerical implementations differ, and how a running
-simulation can be visualized and inspected interactively.
-
 ## Preview
 
 ![N-body Solar System Simulator showing the planets, asteroid belt, and runtime controls](assets/solar-system-simulator.png)
