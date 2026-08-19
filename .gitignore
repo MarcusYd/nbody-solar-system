@@ -1,0 +1,38 @@
+# Local coursework and previous experiments outside this public project
+/Main.py
+/physic.py
+/solarsim2.py
+/txt.txt
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python and test caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.nbi
+*.nbc
+
+# Coverage, packaging, and generated output
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+*.egg-info/
+*.log
+*.tmp
+*.prof
+
+# IDE and operating-system metadata
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
